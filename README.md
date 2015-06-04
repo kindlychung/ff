@@ -1,4 +1,4 @@
-This is source code coped from CRAN, with slight modification.
+This is source code copied from CRAN, with slight modification.
 
 Authors: Daniel Adler, Christian Gläser, Oleg Nenadic, Jens Oehlschlägel, Walter Zucchini
 
